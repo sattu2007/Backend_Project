@@ -1,0 +1,11 @@
+{
+  "name": "backend_project",
+  "version": "1.0.0",
+  "description": "A backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript backedproject"
+  },
+  "author": "Satyam",
+  "license": "ISC"
+}
